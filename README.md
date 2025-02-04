@@ -25,7 +25,7 @@ This project focuses on classifying **diabetic retinopathy cases** using the **D
 ## 📌 Installation  
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/classification-for-data-analysis.git
+git clone https://github.com/OrionShii/Classification-for-Data-Analysis-Advanced-Diabetic-Retinopathy-Prediction.git
 
 ```
 ## 👥 Contributors
